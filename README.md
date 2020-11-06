@@ -1,2 +1,2 @@
 # fyp
-fyp2020
+Splashscreen
